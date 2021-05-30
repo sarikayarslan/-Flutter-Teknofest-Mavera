@@ -1,6 +1,6 @@
 # TEKNOFEST
 
-## HAVACILIK, UZAY VE TEKNOLOJİ FEST İVALİ
+## HAVACILIK, UZAY VE TEKNOLOJİ FESTİVALİ
 
 ## İNSANLIK YARARINA TEKNOLOJİLER YARIŞMASI
 
@@ -12,21 +12,19 @@
 
 ## MAVERA
 
-## BAŞVURU ID
-
 
 ## İçindekiler
 
-- 1 .Proje Özeti
-- 2 .Proje Fikri
-   - 2 1 Yerlilik ve Özgünlük Tarafı
-      - 2 2 Hedef Kitle
-- 3 .Kullanılacak Yöntem
-- 4 .Proje Takvimi
-- 5 .Kaynakça
+- 1. Proje Özeti
+- 2. Proje Fikri
+   - 2.1 Yerlilik ve Özgünlük Tarafı
+      - 2.2 Hedef Kitle
+- 3. Kullanılacak Yöntem
+- 4. Proje Takvimi
+- 5. Kaynakça
 
 
-## 1 .Proje Özeti
+## 1. Proje Özeti
 
 ```
 Gençlik Merkezine gelen üyelerin maske, ateş, HES kodu bilgilerinin kontrol
@@ -60,7 +58,7 @@ hem pandemi süresince hem de pandemi bittikten sonra gençlik merkezimizde
 kontrollü bir giriş-çıkış ve aynı zamanda güvenli bir ortam sağlanması
 hedeflenmektedir.
 ```
-### 2 1 Yerlilik ve Özgünlük Tarafı
+### 2.1 Yerlilik ve Özgünlük Tarafı
 
 ```
 Takım olarak üretebileceğimiz tüm parçaları tasarlayıp üretim aşaması
@@ -70,13 +68,13 @@ depolama sağlayarak olası Covid- 19 durumlarında hızlı müdahale
 sağlamaktadır.
 ```
 
-#### 2 2 Hedef Kitle
+#### 2.2 Hedef Kitle
 
 ```
 Gençlik merkezleri, okullar, kamu kuruluşları ve toplu şekilde çalışılan
 bütün kuruluşlarda projemizin kullanılması hedeflenmektedir.
 ```
-## 3 .Kullanılacak Yöntem
+## 3. Kullanılacak Yöntem
 
 ```
 Proje ana kapsamında görüntü işleme ve derin öğrenme teknikleri olan YOLO
@@ -92,9 +90,9 @@ Atmega 328P-U entegresi kullanılması düşünülmektedir. Mekanik tasarım sol
 program tarafından tasarlanıp maliyet ve özgünlük kavramları dikkate alınarak plexi
 madde kullanılması amaçlanmaktadır.
 ```
-## 4 .Proje Takvimi
+## 4. Proje Takvimi
 
-## 5 .Kaynakça
+## 5. Kaynakça
 
 ```
  K. Zhao, J. Kang, J. Jung and G. Sohn, "Building Extraction from Satellite
