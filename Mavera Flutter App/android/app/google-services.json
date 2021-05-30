@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "883435842967",
+    "firebase_url": "https://mavera-31c55-default-rtdb.firebaseio.com",
+    "project_id": "mavera-31c55",
+    "storage_bucket": "mavera-31c55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883435842967:android:35f2c0edfa1497e6e4a8d2",
+        "android_client_info": {
+          "package_name": "com.example.mavera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883435842967-ncm0o6q3p0oie86s5kotq8np93mlr77t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7JHsdvPRjKozvZ7nkAq8jEEumRObdqms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883435842967-ncm0o6q3p0oie86s5kotq8np93mlr77t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
